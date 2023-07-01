@@ -1,0 +1,2 @@
+# FortniteOptimizador
+Optimizador de fortnite
